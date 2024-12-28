@@ -201,7 +201,7 @@
         "}",
         "",
         "// 测试调用示例",
-        "function main() {",
+        "async function main() {",
         "    const result = await searchBilibiliVideo(\"少年\", 1);",
         "    return result;",
         "}"
