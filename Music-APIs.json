@@ -175,7 +175,7 @@
         "    // 生成Wbi加密查询",
         "    const query = encWbi(params, img_key, sub_key);",
         "    // 拼接上目标API",
-        "    const finalUrl = `https://api.bilibili.com/x/web-interface/wbi/search/type?${query}`;",
+        "    const finalUrl = `https://api.bilibili.com/x/web-interface/wbi/search/type?${encodeURI(query)}`;",
         "",
         "    // 通过proxyFetch发起请求",
         "    const resJson = await proxyFetch({",
