@@ -275,7 +275,7 @@
                 "  ",
                 "      const bestAudio = audioStream[0];",
                 "  ",
-                "      return bestAudio.baseUrl;",
+                "      return bestAudio.backupUrl[0];",
                 "    } catch (error) {",
                 "      console.error('获取音频链接时出错:', error.message);",
                 "      throw error;",
