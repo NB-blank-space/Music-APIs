@@ -199,7 +199,7 @@
                 "        url: finalUrl,",
                 "        method: \"GET\",",
                 "        headers: {",
-                "            Cookie: `buvid3=${await getBuvidValues()};`,",
+                "            Cookie: `buvid3=AB5AD99B-D8A9-34C3-6C1B-CEEC5BE6FF8527361infoc; b_nut=1736155727; b_lsid=25ADD3BE_1943AF20CFE; _uuid=1AF5F127-1082B-38510-5438-EFDB1834541F29179infoc; buvid_fp=5857ee8e41c5baf5b68bc8aa557dba82; enable_web_push=DISABLE; home_feed_column=4; browser_resolution=798-927; bmg_af_switch=1; bmg_src_def_domain=i1.hdslb.com; buvid4=7548B270-839A-F85F-A0B1-9AA77C5F68A533385-025010609-0lKJqwtJRGBuwNvSg1OGSA%3D%3D; bili_ticket=eyJhbGciOiJIUzI1NiIsImtpZCI6InMwMyIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzY0MTQ5MzYsImlhdCI6MTczNjE1NTY3NiwicGx0IjotMX0.sL6uXhYi6JmtATuJAxPFpA6GnDgCbr0gRVk-qW9hH_k; bili_ticket_expires=1736414876`,",
                 "            Referer: \"https://www.bilibili.com/\",",
                 "            \"User-Agent\":",
                 "                \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) \\",
