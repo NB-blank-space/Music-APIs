@@ -73,6 +73,7 @@
                 "        headers: {",
                 "            \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36\",",
                 "            Referer: \"https://www.bilibili.com/\"",
+                "            cookies: `buvid3=345D266D-19E4-1EEC-C9A7-B9286BA4A59239219infoc; b_nut=1736343139; b_lsid=6D51106107_194461DD0EA; _uuid=78482A2E-DDA8-6105B-D153-31644B61E4BA46742infoc; enable_web_push=DISABLE; buvid_fp=5857ee8e41c5baf5b68bc8aa557dba82; bmg_af_switch=0; buvid4=AFBA85E9-5DE9-5A3E-86F5-7390969CA3F256236-025010813-GdU%2F9LbW2GGlexArjkUUO07Mrv500PA9IZIciasB8SaOP7lEgvVgG0Ha4LbGI%2FyK; bili_ticket=eyJhbGciOiJIUzI1NiIsImtpZCI6InMwMyIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzY2MDIzNTYsImlhdCI6MTczNjM0MzA5NiwicGx0IjotMX0.kDhXWhwKZZsjH4b3OD9DqQ2E5fx-ARS4tno7o9KJnr8; bili_ticket_expires=1736602296; CURRENT_FNVAL=2000; sid=6802awhl; home_feed_column=4; browser_resolution=825-927`",
                 "        }",
                 "    });",
                 "",
