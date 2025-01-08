@@ -207,7 +207,7 @@ AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
 }
 
 // 测试调用示例
-async function main(keyword) {
+async function search_main(keyword) {
     const result = await searchBilibiliVideo(keyword, 1);
     return result;
 }
@@ -289,7 +289,7 @@ async function getAudioLink(videoId, isBvid = true) {
     }
 }
 
-async function main(bvid) {
+async function audio_main(bvid) {
     try {
         const audioLink = await getAudioLink(bvid, true);
         return audioLink;
